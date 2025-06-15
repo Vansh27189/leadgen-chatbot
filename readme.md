@@ -36,7 +36,7 @@ This project is a **Lead Generation Chatbot** built to help **businesses, freela
 
 ### 🌐 Live Demo
 
-👉 [Lead Assistant Demo](#) *(replace with actual link)*
+👉 [Lead Assistant Demo](#) *(https://vansh27189.github.io/leadgen-chatbot/)*
 
 ---
 
